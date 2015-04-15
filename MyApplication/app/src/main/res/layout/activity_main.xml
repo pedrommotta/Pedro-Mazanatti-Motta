@@ -7,6 +7,6 @@
 
     <TextView android:text="@string/olamundo" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/ola" />
+        android:id="@+id/ola2" />
 
 </RelativeLayout>
